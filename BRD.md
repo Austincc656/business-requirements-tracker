@@ -42,7 +42,7 @@ The **Business Requirements Tracker** is a web-based tool designed to capture, t
 
 | Role             | Name/Type       | Responsibility                        |
 |------------------|------------------|----------------------------------------|
-| Business Analyst | Eromosele A.Oboh      | Define requirements and structure logic |
+| Business Analyst | Eronmosele A.Oboh      | Define requirements and structure logic |
 | Developer        | Myself            | Build and maintain the web interface    |
 | Reviewer         | [Mentor/Peer]    | Validate against typical BA practices   |
 
