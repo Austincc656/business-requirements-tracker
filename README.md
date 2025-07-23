@@ -48,3 +48,7 @@ This project was created to demonstrate how Business Analysts bridge the gap bet
 
 ## 📁 Project Structure
 
+## 📸 Screenshots
+
+### English Version  
+![English UI](C:\Users\austi\OneDrive\Desktop\business-requirements-tracker\Screenshots\screenshot homepage-en.png)
