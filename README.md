@@ -52,3 +52,14 @@ This project was created to demonstrate how Business Analysts bridge the gap bet
 
 ### English Version  
 ![English UI](C:\Users\austi\OneDrive\Desktop\business-requirements-tracker\Screenshots\screenshot homepage-en.png)
+
+
+## 📈 Project Roadmap & Iterations
+
+| Iteration | Feature                             | Status    |
+|-----------|-------------------------------------|-----------|
+| 1         | Basic Requirement Form              | ✅ Done    |
+| 2         | Add Traceability Fields             | ✅ Done    |
+| 3         | Save to Local Storage               | ⏳ In Progress |
+| 4         | Language Toggle (EN/DE)             | 🔜 Planned |
+| 5         | Export to CSV                       | 🔜 Planned |
