@@ -63,3 +63,15 @@ This project was created to demonstrate how Business Analysts bridge the gap bet
 | 3         | Save to Local Storage               | ⏳ In Progress |
 | 4         | Language Toggle (EN/DE)             | 🔜 Planned |
 | 5         | Export to CSV                       | 🔜 Planned |
+
+## This is in the index.html is file
+| Field ID              | Purpose                                |
+| --------------------- | -------------------------------------- |
+| `title`               | Title of the requirement               |
+| `description`         | Brief explanation                      |
+| `status`              | Dropdown for current status            |
+| `source`              | Where it came from                     |
+| `feature`             | System component it relates to         |
+| `testcase`            | Optional test case ID for traceability |
+| `list` (outside form) | Displays submitted requirements        |
+
